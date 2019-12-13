@@ -1,0 +1,10 @@
+Iterasi,Model,Max Features,Training Set Accucary,Test Set Accuracy,Keterangan
+1,Logistic Regression,300,0.98572184,0.94011976,normal
+2,Logistic Regression,300,0.984135378,0.94011976,tanpa normalisasi
+3,Logistic Regression,300,0.984664199,0.946107784,tanpa lematisasi
+4,Logistic Regression,300,0.972501322,0.931137725,tanpa stop word
+5,Logistic Regression,300,0.975674246,0.946107784,tanpa semua
+6,Logistic Regression,100,0.927022739,0.892215569,normal
+7,Logistic Regression,200,0.969857218,0.919161677,normal
+8,Logistic Regression,400,0.984664199,0.949101796,normal
+9,Logistic Regression,500,0.991010048,0.958083832,normal
